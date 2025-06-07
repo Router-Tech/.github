@@ -1,6 +1,4 @@
-
-
-<img width=100% src="../assets/banner-router.jpg"/>
+<img src="../assets/banner-router.jpg" style="max-width: 100%; height: auto;" alt="Banner"/>
 
 <p align="center">
   <img alt="Open Source" src="https://img.shields.io/badge/open%20source-yes-%231d1dc8">
