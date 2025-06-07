@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
 
-<h1 align="center">Router Tech</h1>
+
+<img width=100% src="../assets/banner-router.jpg"/>
+
 <p align="center">Drones com inteligência artificial para pulverização de hortas e agriculturas familiares.</p>
 
 <p align="center">
