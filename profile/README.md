@@ -2,13 +2,13 @@
 
 <img width=100% src="../assets/banner-router.jpg"/>
 
-<p align="center">Drones com inteligência artificial para pulverização de hortas e agriculturas familiares.</p>
-
 <p align="center">
-  <img alt="Open Source Love" src="https://badgen.net/badge/open/source/green">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-embedded-blue">
-  <img alt="AgTech" src="https://img.shields.io/badge/sector-agriculture-success">
+  <img alt="Open Source" src="https://img.shields.io/badge/open%20source-yes-%231d1dc8">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-embedded-%231d1dc8">
+  <img alt="Sector" src="https://img.shields.io/badge/sector-agriculture-%231d1dc8">
 </p>
+
+
 
 ---
 
