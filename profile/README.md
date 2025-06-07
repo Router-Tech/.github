@@ -1,4 +1,10 @@
-<img src="../assets/banner-router.jpg" style="max-width: 100%; height: auto;" alt="Banner"/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Router-Tech/.github/main/assets/banner-router.jpg"
+    alt="Banner da Router-Tech"
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+</p>
+
 
 <p align="center">
   <img alt="Open Source" src="https://img.shields.io/badge/open%20source-yes-%231d1dc8">
