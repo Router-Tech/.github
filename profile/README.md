@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Genneos/.github/main/assets/banner.jpg"
+    src="https://github.com/Router-Tech/.github/blob/main/assets/banner.jpg"
     alt="Banner da GENNEOS"
     style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </p>
